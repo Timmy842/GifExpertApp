@@ -4,10 +4,10 @@ import { GifGrid } from './Components/GifGrid';
 
 function GifExpertApp() {
 
-    const [categories, setCategories] = useState(['Dragon Ball']);
+    const [categories, setCategories] = useState(['Correctivo']);
 
     // const handleAdd = () => {
-    //     setCategories( [ ...categories, 'HunterXHunter'] );
+    //     setCategories( [ ...categories, 'Sporte'] );
     // }
 
     return (
